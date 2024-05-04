@@ -12,4 +12,4 @@ I am trying to do enhanced sampling with myself on the landscape of computationa
 
 - Nam, J.; Gómez-Bombarelli, R. Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials. *arXiv preprint*, 2024. [[Preprint](https://arxiv.org/abs/2404.10746) · [Code](https://github.com/learningmatter-mit/alchemical-mlip)]
 - Yang, S.; Nam, J.; Dietschreit, J. C. B.; Gómez-Bombarelli, R. Learning Collective Variables with Synthetic Data Augmentation through Physics-inspired Geodesic Interpolation. *arXiv preprint*, 2024. [[Preprint](https://arxiv.org/abs/2402.01542)]
-- Nam, J.; Jung, Y. Enhanced Sampling for Free Energy Profiles with Post-Transition-State Bifurcations. *J. Chem. Theory Comput.* **2023**, 19, 2735. [[Paper](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c01271) · [Preprint](https://arxiv.org/abs/2211.13394)]
+- Nam, J.; Jung, Y. Enhanced Sampling for Free Energy Profiles with Post-Transition-State Bifurcations. *J. Chem. Theory Comput.* **2023**, *19*, 2735. [[Paper](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c01271) · [Preprint](https://arxiv.org/abs/2211.13394)]
